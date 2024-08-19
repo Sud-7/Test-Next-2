@@ -3,8 +3,8 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div>
-      <h1>Testing API routes for Server Side</h1>
-      <Link href="/products">Click here to see api Routes fetching</Link>
+      <h1>SSG Testing</h1>
+      <Link href="/users">Click here to see SSG Testing</Link>
     </div>
   );
 }
